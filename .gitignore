@@ -1,0 +1,7 @@
+# Temporales
+node_modules/
+*.log
+.env
+.env.*
+Thumbs.db
+desktop.ini

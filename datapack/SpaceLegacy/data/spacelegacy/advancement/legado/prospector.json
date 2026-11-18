@@ -1,0 +1,23 @@
+{
+  "parent": "spacelegacy:legado/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:decorated_pot"
+    },
+    "title": {
+      "text": "Lunar Prospector"
+    },
+    "description": {
+      "text": "Escucha al que por fin llegó"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

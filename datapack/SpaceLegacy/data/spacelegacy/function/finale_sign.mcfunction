@@ -1,0 +1,1 @@
+$execute in spacelegacy:moon run setblock $(x) $(y) -32 oak_wall_sign[facing=south]{is_waxed:1b,front_text:{messages:['{"text":"Aquí estuvo"}','{"selector":"@a[tag=sl_finisher,limit=1]","bold":true}','{"text":""}','{"text":"12 de 12 ecos"}']}}

@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "click": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:interaction",
+          "nbt": "{Tags:[\"sl_i_ch_termo\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "spacelegacy:click/ch_termo"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "spacelegacy:legado/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:daylight_detector"
+    },
+    "title": {
+      "text": "ALSEP"
+    },
+    "description": {
+      "text": "Escucha a la estación que trabajó sola"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

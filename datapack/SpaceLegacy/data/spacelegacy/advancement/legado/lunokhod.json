@@ -1,0 +1,23 @@
+{
+  "parent": "spacelegacy:legado/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:chest_minecart"
+    },
+    "title": {
+      "text": "Lunokhod 1"
+    },
+    "description": {
+      "text": "Escucha al primer rover de la historia"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+ "eagle": {
+  "cmd": 1,
+  "scale": 3.2,
+  "lift": 3.96,
+  "size": 9.6,
+  "parts": 48
+ },
+ "lrv": {
+  "cmd": 2,
+  "scale": 1.156,
+  "lift": 1.43,
+  "size": 3.47,
+  "parts": 38
+ },
+ "alsep": {
+  "cmd": 3,
+  "scale": 0.8,
+  "lift": 0.99,
+  "size": 2.4,
+  "parts": 15
+ },
+ "rtg": {
+  "cmd": 4,
+  "scale": 0.4,
+  "lift": 0.495,
+  "size": 1.2,
+  "parts": 13
+ },
+ "surveyor": {
+  "cmd": 5,
+  "scale": 1.469,
+  "lift": 1.818,
+  "size": 4.41,
+  "parts": 34
+ },
+ "luna2": {
+  "cmd": 6,
+  "scale": 0.8,
+  "lift": 0.99,
+  "size": 2.4,
+  "parts": 26
+ },
+ "lunokhod": {
+  "cmd": 7,
+  "scale": 1.067,
+  "lift": 1.32,
+  "size": 3.2,
+  "parts": 54
+ },
+ "vikram": {
+  "cmd": 8,
+  "scale": 1.067,
+  "lift": 1.32,
+  "size": 3.2,
+  "parts": 39
+ },
+ "pragyan": {
+  "cmd": 9,
+  "scale": 0.433,
+  "lift": 0.536,
+  "size": 1.3,
+  "parts": 32
+ },
+ "change4": {
+  "cmd": 10,
+  "scale": 1.687,
+  "lift": 2.087,
+  "size": 5.06,
+  "parts": 36
+ },
+ "yutu2": {
+  "cmd": 11,
+  "scale": 0.6,
+  "lift": 0.743,
+  "size": 1.8,
+  "parts": 38
+ },
+ "slim": {
+  "cmd": 12,
+  "scale": 1,
+  "lift": 1.238,
+  "size": 3,
+  "parts": 31
+ },
+ "soraq": {
+  "cmd": 13,
+  "scale": 0.167,
+  "lift": 0.206,
+  "size": 0.5,
+  "parts": 17
+ },
+ "beresheet": {
+  "cmd": 14,
+  "scale": 0.867,
+  "lift": 1.073,
+  "size": 2.6,
+  "parts": 27
+ },
+ "prospector": {
+  "cmd": 15,
+  "scale": 1.6,
+  "lift": 1.98,
+  "size": 4.8,
+  "parts": 26
+ },
+ "caido": {
+  "cmd": 16,
+  "scale": 0.333,
+  "lift": 0.412,
+  "size": 1,
+  "parts": 11
+ },
+ "lrrr": {
+  "cmd": 17,
+  "scale": 0.333,
+  "lift": 0.412,
+  "size": 1,
+  "parts": 18
+ }
+}

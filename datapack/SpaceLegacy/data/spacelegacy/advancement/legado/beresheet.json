@@ -1,0 +1,23 @@
+{
+  "parent": "spacelegacy:legado/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:music_disc_strad"
+    },
+    "title": {
+      "text": "Beresheet"
+    },
+    "description": {
+      "text": "Escucha a los pasajeros más pequeños"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "spacelegacy:legado/root",
+  "display": {
+    "icon": {
+      "id": "minecraft:nether_star"
+    },
+    "title": {
+      "text": "Seguimos aquí"
+    },
+    "description": {
+      "text": "Recupera los 12 ecos de la Luna"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "done": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

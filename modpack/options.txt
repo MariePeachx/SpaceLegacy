@@ -1,0 +1,2 @@
+resourcePacks:["vanilla","fabric","file/SpaceLegacyRP.zip"]
+lang:es_es
